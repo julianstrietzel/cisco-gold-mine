@@ -5,8 +5,8 @@ Let us show you how we can optimize traffic all over main cities by using Cisco 
 ![large_animation.gif](assets/large_animation.gif)
 
 
-First have a look at our [presentation]() to understand our business case.  
-Have a look at how we could use the Cisco Spaces API to optimize traffic light flow using reinforcement learning in the [video](), our [notebook](traffic_cisco.ipynb) and at the [implementation](AI%2FREADME.md).
+First have a look at our [presentation](Cisco%20for%20Traffic.pptx) to understand our business case.  
+Have a look at how we could use the Cisco Spaces API to optimize traffic light flow using reinforcement learning in the [video](https://youtu.be/He1VwfGgDUM), our [notebook](traffic_cisco.ipynb) and at the [implementation](AI%2FREADME.md).
 
 <details>
   <summary>To be successful follow the master plan (Click to expand): </summary>
